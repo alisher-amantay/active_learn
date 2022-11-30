@@ -1,0 +1,5 @@
+pytorch
+transformers
+nltk  # for dataset generation
+telebot
+question_generation

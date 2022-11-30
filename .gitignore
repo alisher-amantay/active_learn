@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+/data
+question_generation/
+
+# Environments
+.env
+.venv
+env/
+venv/
